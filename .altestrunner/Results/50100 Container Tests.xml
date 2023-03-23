@@ -1,0 +1,6 @@
+<assembly name="50100 Container Tests" test-framework="PS Test Runner" run-date="2023-03-23" run-time="16:18:16" total="1" passed="1" failed="0" skipped="0" time="0.147">
+  <collection name="Container Tests" total="1" passed="1" failed="0" skipped="0" time="0.147" Skipped="0">
+    <test name="Container Tests:TestContainerNoWithValidFormat" method="TestContainerNoWithValidFormat" time="0.013" result="Pass" />
+    <test name="Container Tests:TestFormatContainerNoWithoutSpacesMustApplyStandardFormat" method="TestFormatContainerNoWithoutSpacesMustApplyStandardFormat" time="0.013" result="Pass" />
+  </collection>
+</assembly>

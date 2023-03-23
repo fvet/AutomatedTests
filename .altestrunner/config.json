@@ -1,0 +1,16 @@
+{
+    "containerResultPath":  "C:\\ProgramData\\BcContainerHelper\\Extensions\\bcserverw1\\my",
+    "launchConfigName":  "Bcserverw1",
+    "securePassword":  "01000000d08c9ddf0115d1118c7a00c04fc297eb01000000ef9a3bcee7ce404dbec0e9ccf65fc2760000000002000000000003660000c0000000100000009969af2c4296cf0cbd27657f403349c50000000004800000a00000001000000066df499a63374119d037dc28a3fb5cb610000000a10b5b9855d9c989df54033d7a0d31c714000000e0d32c21dd397ad00aecceaeeeb030ec181a5019",
+    "userName":  "admin",
+    "companyName":  "CRONUS International Ltd.",
+    "testSuiteName":  "",
+    "vmUserName":  "",
+    "vmSecurePassword":  "",
+    "remoteContainerName":  "",
+    "dockerHost":  "",
+    "newPSSessionOptions":  "",
+    "testRunnerServiceUrl":  "",
+    "codeCoveragePath":  ".//.altestrunner//codecoverage.json",
+    "culture":  "en-US"
+}
